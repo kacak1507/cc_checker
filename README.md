@@ -14,4 +14,4 @@ Gelişim
 aligollez Sadece öğrenme amaçlı yapılmıştır, kullanım sorumluluğu size aittir.
 
 Lisans
-MIT Özgür Yazılım, Cehennem Evet!
+MIT Özgür Yazılım
